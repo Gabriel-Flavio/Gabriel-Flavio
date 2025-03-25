@@ -15,12 +15,12 @@
 
 -----------------------------------------------------------------------------
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/Gabriel-Flavio/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Flavio" />
 </a>
 
 <p style="white-space: pre;"></p>
 
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/Gabriel-Flavio/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gabriel-Flavio&layout=compact&langs_count=8&card_width=320" />
 </a>
