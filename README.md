@@ -16,11 +16,11 @@
 -----------------------------------------------------------------------------
 
 <a href="https://github.com/Gabriel-Flavio/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Flavio" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Gabriel-Flavio&theme=dracula" />
 </a>
 
 <p style="white-space: pre;"></p>
 
 <a href="https://github.com/Gabriel-Flavio/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gabriel-Flavio&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Gabriel-Flavio&layout=compact&langs_count=8&card_width=320&theme=dracula" />
 </a>
